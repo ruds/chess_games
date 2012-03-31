@@ -6,18 +6,20 @@
 [Result "0-1"]
 
 1. e4 c5 2. Bc4 Nc6 3. Qf3 d6
-4. Qxf6+ Kd7 5. Nc3 Ne5
+4. Qxf7+ Kd7 5. Nc3 Ne5
 6. Qe6+ Kc7 7. Nb5+ Kb8
 8. Qd5 Nf6 9. Qxb7+ Bxb7
 10. d3 d5 11. exd5 Nxd5 12. Bxd5 Bxd5
-13. Bf4 Kb7 14. Bx35 b5
-15. Nf3 Rh6 16. O-O-O Qa5
-17. Na3 Rg6 18. Nh4 R36
+13. Bf4 Kb7 14. Bxe5 h5
+15. Nf3 Rh6 16. O-O-O ; This castle was executed incorrectly; K moved to b1 and rook to c1
+16... Qa5
+17. Na3 Rg6 18. Nh4 Re6
 19. Bg3 g5 20. Nf3 g4
-21. Ng5 Rb5 22. Nc4 Bxc4
-23. bxc4 Ra6 24. a3 Bg7
-25. Rd1 Rc8 26. Re1 Bxb2
-27. Rd7+ Ka8 28. Rd1 Qxa3
+21. Ng5 Rb6 22. Nc4 Bxc4
+23. dxc4 Ra6 24. a3 Bg7
+25. Kb1 ; In the actual case, this was Rcd1
+25... Rc8 26. Rhe1 Bxb2
+27. Rd7+ Ka8 28. Red1 Qxa3
 29. c3 Qa1+ 30. Kc2 Bc1
 31. Rxc1 Qa2+ 32. Kd1 Qb2
 33. Bf4 Ra1 34. Rxe7 Rd8+
